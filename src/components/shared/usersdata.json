@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "username": "Tony Reichert",
+    "email": "tonyrechert@example.com",
+    "role": "CEO",
+    "meaning": "Management",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "username": "Zoey Lang",
+    "email": "zoelang@example.com",
+    "role": "Technical Lead",
+    "meaning": "Development",
+    "status": "Paused"
+  },
+  {
+    "id": 3,
+    "username": "Jane Fisher",
+    "email": "janefisher@example.com",
+    "role": "Senior Developer",
+    "meaning": "Development",
+    "status": "Vocations"
+  },
+  {
+    "id": 4,
+    "username": "William Howard",
+    "email": "williamhoward@example.com",
+    "role": "Community Manager",
+    "meaning": "Marketing",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "username": "Kristen Copper",
+    "email": "kristencopper@example.com",
+    "role": "Sales Manager",
+    "meaning": "Sales",
+    "status": "Paused"
+  }
+]
